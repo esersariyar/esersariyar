@@ -27,4 +27,4 @@
 
 <b>Spotify</b>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=andmex&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=andmex&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/esersariyar)
