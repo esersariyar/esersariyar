@@ -18,8 +18,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=esersariyar&icon=0&color=0)](#eser-visitcount)
 
-  ## 💰 Donate For My Projects
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/meetweb) 
-
  ## 🎵 Music 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=andmex&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true)](#eser-spotify)
