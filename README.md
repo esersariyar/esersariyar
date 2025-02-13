@@ -15,8 +15,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=esersariyar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=esersariyar&icon=0&color=0)](#eser-visitcount)
-
  ## 🎵 Music 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=andmex&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true)](#eser-spotify)
